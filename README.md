@@ -6,7 +6,7 @@
 
 3. set line number
 
-##HowTo:
+##How To
 
 1. edit deploy_ipynb_config.sh if you use your own profile
 
@@ -14,4 +14,8 @@
 
 3. run deploy_ipynb_config.sh to deploy (./deploy_ipynb_config.sh) 
 
+##Test
 
+1. Ubuntu / Debian
+
+2. Mac OS X 
