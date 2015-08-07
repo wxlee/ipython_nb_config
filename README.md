@@ -1,4 +1,4 @@
-My ipython notebook config
+##My ipython notebook config
 
 1. set the auto save for .py file
 
@@ -6,7 +6,7 @@ My ipython notebook config
 
 3. set line number
 
-##HowTO:
+##HowTo:
 
 1. edit deploy_ipynb_config.sh if your use your own profile
 
