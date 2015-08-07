@@ -8,7 +8,7 @@
 
 ##HowTo:
 
-1. edit deploy_ipynb_config.sh if your use your own profile
+1. edit deploy_ipynb_config.sh if you use your own profile
 
 2. chmod +x deploy_ipynb_config.sh
 
